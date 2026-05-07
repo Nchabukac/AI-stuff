@@ -1,2 +1,2 @@
 # AI-stuff
-AI Engineering stuff
+AI nuggets
